@@ -1,0 +1,364 @@
+[
+
+	{
+		"station_id": 1,
+		"station_name" : "Polus",
+		"lat" : 46.7531,
+		"lon" : 23.533013, 
+		"routes": [1]
+	},
+	{
+		"station_id": 2,
+		"opposite_station_id": 3,
+		"station_name" : "Nod Omega 2",
+		"lat" : 46.756756,
+		"lon" : 23.542159, 
+		"routes": [1]
+	},
+	{
+		"station_id": 3,
+		"opposite_station_id": 2,
+		"station_name" : "Nod Omega 1",
+		"lat" : 46.756675,
+		"lon" : 23.540678, 
+		"routes": [1]
+	},
+	{
+		"station_id": 4,
+		"opposite_station_id": 5,
+		"station_name" : "Calea Floresti I",
+		"lat" : 46.757755,
+		"lon" : 23.546818, 
+		"routes": [1]
+	},
+	{
+		"station_id": 5,
+		"opposite_station_id": 4,
+		"station_name" : "Calea Floresti II",
+		"lat" : 46.757748,
+		"lon" : 23.545713, 
+		"routes": [1]
+	},
+	{
+		"station_id": 6,
+		"opposite_station_id": 7,
+		"station_name" : "PECO I ",
+		"lat" :46.758647,
+		"lon" :23.550912, 
+		"routes": [1]
+	},
+	{
+		"station_id":7,
+		"opposite_station_id":6,
+		"station_name" : "PECO II ",
+		"lat" :46.75888,
+		"lon" :23.551068, 
+		"routes": [1]
+	},
+	{
+		"station_id":8,
+		"opposite_station_id":9,
+		"station_name" : "Campului I ",
+		"lat" :46.760898,
+		"lon" :23.564795,
+		"routes": [1,2]
+	},
+	{
+		"station_id":9,
+		"opposite_station_id":8,
+		"station_name" : "Campului II ",
+		"lat" :46.760861,
+		"lon" :23.564149, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":10,
+		"opposite_station_id":11,
+		"station_name" : "Agronomia I ",
+		"lat" :46.763057,
+		"lon" :23.572586,
+		"routes": [1,2]
+	},
+	{
+		"station_id":11,
+		"opposite_station_id":10,
+		"station_name" : "Agronomia II ",
+		"lat" :46.763902,
+		"lon" :23.573498,
+		"routes": [1,2]
+	},
+	{
+		"station_id":12,
+		"opposite_station_id":13,
+		"station_name" : "Spitalul de Copii I ",
+		"lat" :46.766214,
+		"lon" :23.579863, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":13,
+		"opposite_station_id":12,
+		"station_name" : "Spitalul de Copii II ",
+		"lat" :46.766567,
+		"lon" :23.58034, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":14,
+		"opposite_station_id":15,
+		"station_name" : "Memorandumului I ",
+		"lat" :46.76962,
+		"lon" :23.5871,
+		"routes": [1,2]
+	},
+	{
+		"station_id":15,
+		"opposite_station_id":14,
+		"station_name" : "Memorandumului II ",
+		"lat" :46.769664,
+		"lon" :23.586847, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":16,
+		"opposite_station_id":17,
+		"station_name" : "Regionala CFR I ",
+		"lat" :46.77308,
+		"lon" :23.597021, 
+		
+		"routes": [1,2]
+	},
+	{
+		"station_id":17,
+		"opposite_station_id":16,
+		"station_name" : "Regionala CFR II ",
+		"lat" :46.773447,
+		"lon" :23.597632, 
+		"routes": [1]
+	},
+	{
+		"station_id":18,
+		"opposite_station_id":19,
+		"station_name" : "Somesul I ",
+		"lat" :46.776047,
+		"lon" :23.605459, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":19,
+		"opposite_station_id":18,
+		"station_name" : "Somesul II ",
+		"lat" :46.776043,
+		"lon" :23.604863, 
+		"routes": [1]
+	},
+	{
+		"station_id":20,
+		"opposite_station_id":21,
+		"station_name" : "Piata Marasti I ",
+		"lat" :46.777591,
+		"lon" :23.611506, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":21,
+		"opposite_station_id":20,
+		"station_name" : "P-ta Marasti II ",
+		"lat" :46.777815,
+		"lon" :23.61163, 
+		"routes": [1]
+	},
+	{
+		"station_id":22,
+		"opposite_station_id":23,
+		"station_name" : "Maresal C-tin Prezan ",
+		"lat" :46.778411,
+		"lon" :23.615907, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":23,
+		"opposite_station_id":22,
+		"station_name" : "Arte Plastice II ",
+		"lat" :46.778966,
+		"lon" :23.617714, 
+		"routes": [1]
+	},
+	{
+		"station_id":24,
+		"station_name" : "Dorobantilor ",
+		"lat" :46.77786,
+		"lon" :23.6199, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":25,
+		"opposite_station_id":26,
+		"station_name" : "Campus Universitar1 ",
+		"lat" :46.773998,
+		"lon" :23.621686, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":26,
+		"opposite_station_id":25,
+		"station_name" : "Campus Universitar2 ",
+		"lat" :46.774068,
+		"lon" :23.621896, 
+		"routes": [1]
+	},
+	{
+		"station_id":27,
+		"opposite_station_id":28,
+		"station_name" : "Iulius Mall 1 ",
+		"lat" :46.771419,
+		"lon" :23.62527, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":28,
+		"opposite_station_id":27,
+		"station_name" : "Iulius Mall 2 ",
+		"lat" :46.77125,
+		"lon" :23.626026, 
+		"routes": [1]
+	},
+	{
+		"station_id":29,
+		"opposite_station_id":30,
+		"station_name" : "Colegiul Pedagocic1 ",
+		"lat" :46.76981,
+		"lon" :23.628097, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":30,
+		"opposite_station_id":29,
+		"station_name" : "Colegiul Pedagogic2 ",
+		"lat" :46.770041,
+		"lon" :23.628065,
+		"routes": [1]
+	},
+	{
+		"station_id":31,
+		"opposite_station_id":32,
+		"station_name" : "Snagov-Capat ",
+		"lat" :46.76805,
+		"lon" :23.629911, 
+		"routes": [1,2]
+	},
+	{
+		"station_id":32,
+		"opposite_station_id":31,
+		"station_name" : "Snagov-Capat ",
+		"lat" :46.768179,
+		"lon" :23.630292, 
+		"routes": [1]
+	},
+	{
+		"station_id":33,
+		"station_name" : "Snagov ",
+		"lat" :46.767983,
+		"lon" :23.628385,
+		"routes": [2]
+	},
+	{
+		"station_id":34,
+		"station_name" : "Borsec",
+		"lat" :46.768419,
+		"lon" :23.622175, 
+		"routes": [2]
+	},
+	{
+		"station_id":35,
+		"station_name" : "N.Titulescu I ",
+		"lat" :46.769174,
+		"lon" :23.616532,
+		"routes": [2]
+	},
+	{
+		"station_id":36,
+		"station_name" : "Septimiu Albini I ",
+		"lat" :46.769249,
+		"lon" :23.608152, 
+		"routes": [2]
+	},
+	{
+		"station_id":37,
+		"station_name" : "P-ta Cipariu I ",
+		"lat" :46.768403,
+		"lon" :23.599326,
+		"routes": [2]
+	},
+	{
+		"station_id":38,
+		"station_name" : "P-ta Avram Iancu ",
+		"lat" :46.77141,
+		"lon" :23.59729, 
+		"routes": [2]
+	},
+	{
+		"station_id":39,
+		"station_name" : "Clabucet ",
+		"lat" :46.751459,
+		"lon" :23.54289,
+		"routes": [2]
+	},
+	{
+		"station_id":93,
+		"station_name" : "Clabucet ",
+		"lat" :46.751803,
+		"lon" :23.543248,
+		"routes": [2]
+	},
+	{
+		"station_id":40,
+		"station_name" : "Clabucet I ",
+		"opposite_station_id":41,
+		"lat" :46.751829,
+		"lon" :23.545628, 
+		"routes": [2]
+	},
+	{
+		"station_id":41,
+		"station_name" : "Clabucet II ",
+		"opposite_station_id":40,
+		"lat" :46.752445,
+		"lon" :23.547176, 
+		"routes": [2]
+	},
+	{
+		"station_id":42,
+		"station_name" : "Minerva I ",
+		"opposite_station_id":43,
+		"lat" :46.754257,
+		"lon" :23.554332, 
+		"routes": [2]
+	},
+	{
+		"station_id":43,
+		"station_name" : "Minerva II ",
+		"opposite_station_id":42,
+		"lat" :46.754503,
+		"lon" :23.554354, 
+		"routes": [2]
+	},
+	{
+		"station_id":44,
+		"station_name" : "Izlazului I ",
+		"lat" :46.755401,
+		"lon" :23.561944, 
+		"routes": [2]
+	},
+	{
+		"station_id":45,
+		"station_name" : "Gr. Alexandrescu ",
+		"lat" :46.757571,
+		"lon" :23.556493, 
+		"routes": [2]
+	}
+
+	]
+
+
+
